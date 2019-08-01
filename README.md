@@ -4,6 +4,7 @@ Resources on NLP / Text Mining
 Here you can download the useful resources on NLP or Text Mining.
 
 Useful Links to eBooks:
+
 ~ Web Scraping with Python
 https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf
 
