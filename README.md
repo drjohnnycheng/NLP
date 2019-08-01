@@ -8,6 +8,9 @@ Here you can download the useful resources on NLP or Text Mining.
 ~ Twitter Mining
 https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
 
+~ Facebook Mining
+https://towardsdatascience.com/how-to-use-facebook-graph-api-and-extract-data-using-python-1839e19d6999
+
 
 ## Useful Links to eBooks:
 
