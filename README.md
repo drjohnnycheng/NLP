@@ -3,7 +3,13 @@ Resources on NLP / Text Mining
 
 Here you can download the useful resources on NLP or Text Mining.
 
-Useful Links to eBooks:
+## Useful Links:
+
+~ Twitter Mining
+https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+
+
+## Useful Links to eBooks:
 
 ~ Web Scraping with Python
 https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf
