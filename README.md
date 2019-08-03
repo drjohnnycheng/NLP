@@ -10,7 +10,7 @@ Here you can download the useful resources on NLP or Text Mining.
 * Facebook Mining : [link](https://towardsdatascience.com/how-to-use-facebook-graph-api-and-extract-data-using-python-1839e19d6999)
 
 
-## Useful Links to eBooks:
+## Related eBooks:
 
 * Web Scraping with Python : [download](https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf)
 
@@ -21,4 +21,4 @@ Here you can download the useful resources on NLP or Text Mining.
 * Mastering Social Media Mining with Python : [download](https://github.com/zll17/syncrepo/blob/master/Mastering%20Social%20Media%20Mining%20with%20Python.pdf)
  
 
-Enjoy your journey to NLP!
+*Enjoy your journey to NLP!*
