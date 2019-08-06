@@ -8,8 +8,8 @@ Here you can download the useful resources on NLP or Text Mining.
 * Sentiment Analysis: [Link](https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184)
 
 * 中文情感分析:
-  [Site 1](https://ithelp.ithome.com.tw/articles/10209911?sc=iThelpR)
-  [Site 2](https://medium.com/@wshuyi/%E5%A6%82%E4%BD%95%E7%94%A8python%E5%81%9A%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90-9df4d49acaa3)
+  [Site-1](https://ithelp.ithome.com.tw/articles/10209911?sc=iThelpR), 
+  [Site-2](https://medium.com/@wshuyi/%E5%A6%82%E4%BD%95%E7%94%A8python%E5%81%9A%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90-9df4d49acaa3)
 
 * Twitter Mining : [Link](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 
