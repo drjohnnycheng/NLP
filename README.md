@@ -18,6 +18,8 @@ Here you can download the useful resources on NLP or Text Mining.
 
 ## Related eBooks:
 
+* NLP with PyTorch, 2019 : [Download](https://www.pdfdrive.com/natural-language-processing-with-pytorch-build-intelligent-language-applications-using-deep-learning-e188037921.html)
+
 * Web Scraping with Python : [Download](https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf)
 
 * Natural Language Processing with Python : [Download](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
