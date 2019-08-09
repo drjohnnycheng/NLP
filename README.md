@@ -5,7 +5,9 @@ Here you can download the useful resources on NLP or Text Mining.
 
 ## Useful Links:
 
-* Sentiment Analysis: [Link](https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184)
+* 進入 NLP 世界的最佳橋樑：寫給所有人的自然語言處理與深度學習入門指南 : [Link](https://leemeng.tw/shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.html)
+
+* Sentiment Analysis : [Link](https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184)
 
 * 中文情感分析:
   [Site-1](https://ithelp.ithome.com.tw/articles/10209911?sc=iThelpR), 
